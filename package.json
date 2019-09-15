@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/grlara9/bamazon#readme",
   "dependencies": {
+    "inquirer": "^7.0.0",
     "mysql": "^2.17.1"
   }
 }
